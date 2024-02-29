@@ -36,6 +36,7 @@ alert("I am trying to learn JavaScript from book " + book);
 
 // 8
 let content="Yah! I can write HTML content through JavaScript ";
+document.write("<br>")
 document.write(content);
 
 // 9

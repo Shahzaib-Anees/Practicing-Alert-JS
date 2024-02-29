@@ -11,6 +11,8 @@ alert(`You have visited this page ${total_visits} times`);
 
 // 3
 let birth_year=2005;
+document.write("<br>");
+document.write("<br>");
 document.write("My birth year is " + birth_year + "<br>" +"Data type of my birth year is number");
 
 // 4
